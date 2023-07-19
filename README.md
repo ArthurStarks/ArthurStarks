@@ -5,18 +5,18 @@
 - 📫 How to reach me by whatsapp : +243823495527 or via linkedin : @Arthur (Bahati) Kaza or Twitter : @KazaArthur or Instagram : Arthur Kaza
 - Links : https://www.linkedin.com/in/arthur-kaza-1a945b1a6 
 - Some of my favourite tools include the following:
-Tensorflow
-Python
-PyTorch
-Flask
-AWS SageMaker
-Java SpringBoot
-Learning:
+-Tensorflow
+-Python
+-PyTorch
+-Flask, Stremlit, Selenium
+-Azure
+-Dialoflow, GCP
 
-Statistics
-Mathematics for Machine Learning
-AWS
-MLOps     
+- Learning:
+-Statistics
+-Mathematics for Machine Learning
+-AWS
+-MLOps     
 
 <!---
 ArthurStarks/ArthurStarks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
