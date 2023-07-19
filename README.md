@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthurStarks
-- 👀 I’m interested in Machine Learning and Deep Learning 
+- 👀 I’m interested in Machine Learning and Deep Learning, I am in love of working with Deep Neural Networks and NLP models
 - 🌱 I’m currently learning Tensorflow 
 - 💞️ I’m looking to collaborate on opensource projects in the area of Data science
 - 📫 How to reach me by whatsapp : +243823495527 or via linkedin : @Arthur (Bahati) Kaza or Twitter : @KazaArthur or Instagram : Arthur Kaza
