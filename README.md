@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArthurStarks
+- 👋 Hi, I’m Arthur Kaza
 - 👀 I’m interested in Machine Learning and Deep Learning, I am in love of working with Deep Neural Networks and NLP models
 - 🌱 I’m currently learning Tensorflow 
 - 💞️ I’m looking to collaborate on opensource projects in the area of Data science
